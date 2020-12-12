@@ -1,0 +1,145 @@
+I"Y<div class="intro-animation">
+<section class="explanation">
+    <div style="width: 72px; margin: none; display: inline-block;">
+        <img src="/img/profile.jpg" />
+    </div>
+    <div>
+        <h4 class="intro">
+        I'm Daehee Jeong,
+        </h4>
+        <h4 class="intro">a Back-end Developer at 
+            <div class="intro-link">
+                <a class="transition" href="https://airpremia.com/" target="_blank">
+                    Air Premia
+                </a>
+                <div class="underline-mask transition"></div>
+                <div class="underline"></div>
+            </div>.
+        </h4>
+        <h5 class="intro">'정대희' 백엔드 개발자입니다. 에어프레미아에서 일합니다.</h5>
+    </div>
+</section>
+</div>
+<div class="loading-animation">
+<section class="resume">
+    <div class="resume-info">
+        <p class="second-label">
+            <span class="label-emoji">
+                &#x1F64B;
+            </span>    
+            &nbsp; I've worked for
+        </p>
+    </div>
+    <ul>
+
+        <li class="workplace transition">
+    
+    <p class="workplace-name">
+        Air Premia
+    </p>
+    <div class="work-info">
+        <p>
+            Back-end Enginner
+        </p>
+        <p class="work-sub-info">
+            2019. NOV - Present
+        </p>
+    </div>
+    
+</li>
+
+<li class="workplace transition">
+    
+    <p class="workplace-name">
+        Ildong Pharmaceutical
+    </p>
+    <div class="work-info">
+        <p>
+            Software Enginner
+        </p>
+        <p class="work-sub-info">
+            2017. NOV - 2019. NOV
+        </p>
+    </div>
+    
+</li>
+
+<li class="workplace transition">
+    
+    <p class="workplace-name">
+        JoongAng Ilbo
+    </p>
+    <div class="work-info">
+        <p>
+            Software Enginner Intern
+        </p>
+        <p class="work-sub-info">
+            2017. JUL - 2017. AUG
+        </p>
+    </div>
+    
+</li>
+
+    </ul>
+    
+    <a href="/project" class="transition"> 
+        <div class="view-all-projects transition">
+            View Selected Projects
+            <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><style>.cls-1{fill:none;}</style></defs><path d="M7.2,17.9l6.1-6.1L7.2,5.6,9,3.8l8,8-8,8Z" /><path class="cls-1" d="M.1-.2h24v24H.1Z" /></svg>
+        </div>
+    </a>
+
+</section>
+
+
+<section class="skill">
+    <div class="resume-info">
+        <p class="second-label">
+            <span class="label-emoji">
+                &#x1F4AA;
+            </span>
+            &nbsp; Skill Stack
+        </p>
+    </div>    
+    <ul>
+        
+            <li class="skill_name">
+                Java
+            </li>
+        
+            <li class="skill_name">
+                Kotlin
+            </li>
+        
+            <li class="skill_name">
+                Spring Boot
+            </li>
+        
+            <li class="skill_name">
+                Spring Cloud
+            </li>
+        
+            <li class="skill_name">
+                JPA
+            </li>
+        
+            <li class="skill_name">
+                MyBatis
+            </li>
+        
+            <li class="skill_name">
+                MySql
+            </li>
+        
+            <li class="skill_name">
+                Oracle
+            </li>
+        
+            <li class="skill_name">
+                Docker
+            </li>
+        
+    </ul>
+</section>
+</div>
+:ET

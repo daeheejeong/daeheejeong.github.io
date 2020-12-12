@@ -7,19 +7,29 @@ description: Daehee Jeong, who is a Back-end Developer at Air Premia based in Se
 ---
 <div class="intro-animation">
 <section class="explanation">
-    <h1 class="intro">
-    I'm Daehee Jeong,
-    </h1>
-    <h1 class="intro">a Back-end Developer at 
-        <div class="intro-link">
-            <a class="transition" href="https://airpremia.com/" target="_blank">
-                Air Premia
-            </a>
-            <div class="underline-mask transition"></div>
-            <div class="underline"></div>
-        </div>.
-    </h1>
-    <h2 class="intro">'정대희' 백엔드 개발자입니다. 에어프레미아에서 일합니다.</h2>
+    <div style="width: 80px; height: 80px; display: table-cell; vertical-align: middle;">
+        <img src="/img/profile.jpg" style="border-radius: 50%; margin: 0;"/>
+    </div>
+    <div style="display: table-cell; vertical-align: middle; padding-left: 25px;">
+        <h3 class="intro">
+            <div class="intro-link">
+                <a class="transition" href="/about">
+                    정대희 (Daehee Jeong)
+                </a>
+                <div class="underline-mask transition"></div>
+                <div class="underline"></div>
+            </div>
+        </h3>
+        <p class="sub-info" style="margin-top: 10px;">
+            4년차 백엔드 개발자입니다.<br/> 
+            학습한 것을 실무에 적용하고 내것으로 만들기를 좋아합니다.<br/>
+            그 과정에서는 항상 여러사람이 함께하여 동반 성장하기를 원합니다.
+        </p>
+        <div style="margin-top: 10px;">
+            <a href="https://github.com/daeheejeong" style="font-size: 80%;">GitHub</a>
+            <a href="https://www.linkedin.com/in/daehee-jeong-b0062b1bb/" style="font-size: 80%; margin-left: 10px;">LinkedIn</a>
+        </div>
+    </div>
 </section>
 </div>
 {% include resume.html %}

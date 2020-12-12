@@ -8,6 +8,9 @@
 section.explanation {
     padding-top: 40px;
     
+    /* customized by Daehee Jeong */
+    display: table;
+    
     @media (max-width: $break-small) {
         padding-top: 20px;
     }
@@ -92,4 +95,9 @@ section.explanation {
         }
     }
     
+    .sub-info {
+        color: #8898aa;
+        font-size: 80%;
+        font-weight: 400;
+    }
 }
