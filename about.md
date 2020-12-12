@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Jihye Leee"
-subtitle: "이지혜"
+title: "Daehee Jeong"
+subtitle: "정대희"
 type: "About"
-author: "Jihye Lee"
+author: "Daehee Jeong"
 permalink: /about/
 post-header: true
 header-img: img/about.jpg
