@@ -76,7 +76,19 @@ layout: default
             {% endfor %}
         {% endif %}
     {% endif %}
-    
 
+    <br/>
+    <hr/>
+
+    {% if page.text == true %}
+        {% include share.html %}
+    {% endif %}
     
+    <script src="https://utteranc.es/client.js"
+        repo="daeheejeong/daeheejeong.github.io"
+        issue-term="url"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
 </div>
