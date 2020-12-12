@@ -78,12 +78,16 @@ layout: default
     {% endif %}
 
     <br/>
-    <hr/>
-
-    {% if page.text == true %}
+    {% if page.blog == true %}
         {% include share.html %}
     {% endif %}
-    
+
+    {% if page.blog == true %}
+        {% include explanation.html %}
+    {% endif %}
+
+    <br/>
+    <hr/>
     <script src="https://utteranc.es/client.js"
         repo="daeheejeong/daeheejeong.github.io"
         issue-term="url"
