@@ -25,8 +25,8 @@ description: Daehee Jeong, who is a Back-end Developer at Air Premia based in Se
             Domain-Driven Design, MSA에 관심이 많습니다. 배움이 두렵지 않으며, 학습한 것을 실무에 적용하고 내것으로 만들기를 좋아합니다.
         </p>
         <div style="margin-top: 10px;">
-            <a href="https://github.com/daeheejeong" style="font-size: 80%;">GitHub</a>
-            <a href="https://www.linkedin.com/in/daehee-jeong-b0062b1bb/" style="font-size: 80%; margin-left: 10px;">LinkedIn</a>
+            <a href="https://github.com/daeheejeong" style="font-size: 0.8em;">GitHub</a>
+            <a href="https://www.linkedin.com/in/daehee-jeong-b0062b1bb/" style="font-size: 0.8em; margin-left: 10px;">LinkedIn</a>
         </div>
     </div>
 </section>
