@@ -9,8 +9,8 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/sky-of-gangnam-in-airpremia.png"
-main-img: "img/sky-of-gangnam-in-airpremia.png"
+header-img: "img/sky-of-gangnam-in-airpremia.jpg"
+main-img: "img/sky-of-gangnam-in-airpremia.jpg"
 date: "2020-11-27"
 order: 1
 ---
