@@ -2,8 +2,8 @@
 layout: default
 work: true
 main: true
-title: Selected Projects
-description: 지금까지 작업한 프로젝트
+title: Diary
+description: 무슨일이 있으면 적습니다
 project-header: true
 header-img: "img/project_bg.jpg"
 ---
@@ -11,7 +11,7 @@ header-img: "img/project_bg.jpg"
 <div class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
-{% if page.projects == true %}
+{% if page.diary == true %}
 
      {% include post-list.html %}
 

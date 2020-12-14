@@ -69,13 +69,13 @@ order: 9
 
 ## ✍️ 이미지 멋지게 형광펜 공유하기 글 업로드
 
-1월에 시작한 포트폴리오 모임을 통해 [이미지로 멋지게 형광펜 공유하기](http://jihyeleee.com/project/highlight-img-share/) 글을 쓰고 올릴 수 있었다! ~~(그리고 그 이후 글은 없었다고 한다.)~~
+1월에 시작한 포트폴리오 모임을 통해 [이미지로 멋지게 형광펜 공유하기](http://jihyeleee.com/diary/highlight-img-share/) 글을 쓰고 올릴 수 있었다! ~~(그리고 그 이후 글은 없었다고 한다.)~~
 
 처음 글을 쓰겠다고 결심했던 게 작년 5월이었는데 무려 10개월 뒤에야 올릴 수 있었다. 어떻게 보면 게으르다고 볼 수 있다. 하지만 이렇게 가늘고 길게 계속해서 결국은 해내는 게 내 장점이라고 생각한다.
 
 내년엔 또 어떤 글을 10개월에 걸쳐 써낼지 궁금하다. 👀
 
-<a href="http://jihyeleee.com/project/highlight-img-share/">![이미지 멋지게 공유하기](http://jihyeleee.com/project/img/ridi-highlight.jpg)</a>
+<a href="http://jihyeleee.com/diary/highlight-img-share/">![이미지 멋지게 공유하기](http://jihyeleee.com/diary/img/ridi-highlight.jpg)</a>
 
 ## 📘 2월에 읽은 책
 

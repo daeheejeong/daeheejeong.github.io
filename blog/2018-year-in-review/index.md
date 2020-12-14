@@ -47,14 +47,14 @@ order: 8
 
 # 5월
 
-![이미지로 멋지게 공유하기](http://jihyeleee.com/project/highlight-img-share/img/card.jpg)
+![이미지로 멋지게 공유하기](http://jihyeleee.com/diary/highlight-img-share/img/card.jpg)
 
 ## ✍️ 글쓰기
 
 - 블로그에 `Coming Soon` 태그를 만들고 이미지 멋지게 형광펜 공유하기 draft를 올렸다.
   - 아직도 draft 상태라니 😱 계속 쓰고 있긴 한데 진도가 안 나간다. 반성해야겠다. 너무 잘 쓰려고 하지 말고 대충이라도 써서 올리자.
 
-[이미지로 멋지게 형광펜 공유하기 draft 🔗](http://jihyeleee.com/project/highlight-img-share/?fbclid=IwAR15H58VZTk1ram2_euzrxWS4z0mEdjXXxg1JAknDNiLXQJ9zS0TU0jTKK4)
+[이미지로 멋지게 형광펜 공유하기 draft 🔗](http://jihyeleee.com/diary/highlight-img-share/?fbclid=IwAR15H58VZTk1ram2_euzrxWS4z0mEdjXXxg1JAknDNiLXQJ9zS0TU0jTKK4)
 
 [dribbble에서 보기 🏀](https://dribbble.com/shots/4407823-Here-s-Coming-Soon-Message-for-Post-Draft)
 

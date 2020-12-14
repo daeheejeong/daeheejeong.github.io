@@ -86,3 +86,10 @@ td {
     color: #FFF;
     text-shadow: none;
 }
+
+/* modified by Daehee Jeong */
+.br-responsive {
+  @media (max-width: 450px) {
+    display: none;
+  }
+}
