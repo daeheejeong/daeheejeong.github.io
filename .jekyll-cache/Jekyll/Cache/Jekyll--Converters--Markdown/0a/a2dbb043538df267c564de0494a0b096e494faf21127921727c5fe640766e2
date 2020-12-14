@@ -1,4 +1,4 @@
-I"F<div class="intro-animation">
+I"^<div class="intro-animation">
 <section class="explanation">
     <div style="width: 80px; height: 80px; display: table-cell; vertical-align: middle;">
         <img src="/img/profile.jpg" style="border-radius: 50%; margin: 0;" />
@@ -29,7 +29,7 @@
     <div class="resume-info">
         <p class="second-label">
             <span class="label-emoji">
-                &#x1F64B;
+                &#x1f64b;&#x200d;&#x2642;&#xfe0f;
             </span>    
             &nbsp; I've worked for
         </p>
