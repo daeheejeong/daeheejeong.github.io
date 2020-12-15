@@ -57,6 +57,12 @@ layout: default
             현재 열심히 글을 쓰고 있어요. 조금만 기다려주세요!
         </div>
     {% endif %}
+
+    {% if page.book == true %}
+        <a href="http://www.yes24.com/Product/Goods/{{ page.yes24-book-id }}" target="_blank" class="book-link">
+            <img class="book-cover transition" src="http://image.yes24.com/goods/{{ page.yes24-book-id }}/400x0"/>
+        </a>
+    {% endif %}
     
 <!--큐레이션 영역-->
     {{ content }}
