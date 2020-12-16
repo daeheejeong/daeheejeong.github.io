@@ -27,6 +27,6 @@ header-img: img/about.jpg
 ![GitHub Contribution](https://ghchart.rshah.org/daeheejeong)
 
 ### History
-{% include career.html %}
+<!-- {% include career.html %} -->
 
 <br />
