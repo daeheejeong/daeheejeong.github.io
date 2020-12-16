@@ -92,4 +92,8 @@ layout: default
     {% if page.blog == true or page.diary == true %}
         {% include explanation.html %}
     {% endif %}
+
+    {% if page.blog == true or page.book == true or page.diary == true %}
+        {% include utterances.html %}
+    {% endif %}
 </div>
