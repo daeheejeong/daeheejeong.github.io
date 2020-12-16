@@ -11,8 +11,7 @@ portfolio: true
 post-header: true
 header-img: "img/sky-of-gangnam-in-airpremia.jpg"
 main-img: "img/sky-of-gangnam-in-airpremia.jpg"
-date: "2020-11-27"
-order: 1
+date: 2020-11-27 00:00:00 +0900
 ---
 
 # 마지막 날

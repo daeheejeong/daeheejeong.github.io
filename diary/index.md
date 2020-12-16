@@ -9,7 +9,7 @@ header-img: "img/project_bg.jpg"
 ---
 
 <div class="catalogue">
-{% assign sorted = site.pages | sort: 'order' | reverse %}
+{% assign sorted = site.pages | sort: 'date' | reverse %}
 {% for page in sorted %}
 {% if page.diary == true %}
 

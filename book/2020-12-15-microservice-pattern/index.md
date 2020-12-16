@@ -10,7 +10,7 @@ draft: true
 post-header: true
 header-img: "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2730&q=80"
 yes24-book-id: 86542732
-order: 3
+date: 2020-12-15 00:00:00 +0900
 data-name: 
 ridibooks: true
 link: "https://ridibooks.com/books/"
