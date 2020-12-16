@@ -8,7 +8,7 @@ text: true
 author: "Daehee Jeong"
 post-header: false
 header-img: 
-date: "2019-08-30"
+date: 2019-08-30 00:00:00 +09:00
 ---
 
 ## JPA Entity에서 Enum 활용하기

@@ -8,7 +8,7 @@ text: true
 author: "Daehee Jeong"
 post-header: false
 header-img: 
-date: 2019-08-07
+date: 2019-08-07 00:00:00 +09:00
 ---
 
 ## JVM 이란?
