@@ -1,4 +1,4 @@
-I"�<ul class="catalogue">
+I"o"<ul class="catalogue">
 
 
 
@@ -17,7 +17,7 @@
                 'Design Systems'의 아티클 01
             </p>
             <p class="catalogue-body">
-                _원문 아티클의 일부를 요약, 번역한 글로 [Design Systems](http://designsystems.com/) 사이트를 운영하는 [Figma](https://www.figma.com/)의 허락을 받고 게재하였다. 번역이 엉성할 수 있기에 원문도 꼭 읽어보기를 추천한다._ # Starting...
+                원문 아티클의 일부를 요약, 번역한 글로 Design Systems 사이트를 운영하는 Figma의 허락을 받고 게재하였다. 번역이 엉성할 수 있기에 원문도 꼭 읽어보기를 추천한다....
             </p>
         </div>
     </a>
@@ -41,6 +41,29 @@
             </p>
             <p class="catalogue-body">
                 벌써 12월 마지막 주라니 시간은 빠르게도 흐른다. 마지막으로 글을 올리고 거의 딱 1년의 시간이 지났다. 2019년은 회사를 쉬진 않았지만 내가 지정한 안식년이었다. 작년보다 디자이너로서...
+            </p>
+        </div>
+    </a>
+</li>    
+
+
+
+<li class="catalogue-item">
+    <a href="/blog/2019-09-11-java-useful-objects-methods/">
+        
+        
+        <p class="catalogue-type">
+            Year in Review
+        </p>
+        <div class="catalogue-info transition">
+            <h1 class="catalogue-title">
+                유용한 Objects 클래스 메서드
+            </h1>
+            <p class="catalogue-sub">
+                
+            </p>
+            <p class="catalogue-body">
+                유용한 Objects class 사용법 최근 Objects 클래스의 메서드 사용을 자주 마주치게 되었습니다. 운영중인 시스템에서도 Objects 클래스 메서드들을 적용해보며 유용하다고 생각됐던 부분들을 정리하고자...
             </p>
         </div>
     </a>
@@ -86,7 +109,7 @@
                 애플 앱스토어, 글쓰기, Job crafting, 지니어스, PUBLY, Airbnb, 디자인 시스템, 원격근무
             </p>
             <p class="catalogue-body">
-                애플 앱스토어는 왜 ‘마켓’을 넘어 ‘콘텐츠 서비스’가 되고자 할까?  앱스토어는 새로운 앱을 발견하고 설치하는 곳이 아니라 단순히 설치된 앱을 업데이트 하는 곳으로...
+                # 애플 앱스토어는 왜 ‘마켓’을 넘어 ‘콘텐츠 서비스’가 되고자 할까? &gt; 앱스토어는 새로운 앱을 발견하고 설치하는 곳이 아니라 단순히 설치된 앱을 업데이트 하는 곳으로...
             </p>
         </div>
     </a>
