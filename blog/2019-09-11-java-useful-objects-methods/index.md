@@ -8,7 +8,7 @@ text: true
 author: "Daehee Jeong"
 post-header: false
 header-img: 
-date: 2019-09-11
+date: "2019-09-11"
 ---
 
 # 유용한 Objects class 사용법
