@@ -2,7 +2,7 @@
 layout: post
 title:  "유용한 Objects 클래스 메서드"
 subtitle: 
-type: "Year in Review"
+type: "Java"
 blog: true
 text: true
 author: "Daehee Jeong"

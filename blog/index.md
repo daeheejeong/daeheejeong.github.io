@@ -4,7 +4,7 @@ title: "Blog"
 description: 개발과 관련된 여러가지 글을 올립니다.
 main: true
 project-header: true
-header-img: img/about.jpg
+date: 2019-09-11
 ---
 
 <ul class="catalogue">

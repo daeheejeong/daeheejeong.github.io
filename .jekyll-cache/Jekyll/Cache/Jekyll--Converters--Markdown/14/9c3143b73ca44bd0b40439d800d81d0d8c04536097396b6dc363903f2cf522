@@ -1,0 +1,66 @@
+I"�<div class="catalogue">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <li class="catalogue-item">
+    <a href="/book/microservice-pattern/">
+        
+        
+        <span class="catalogue-tag">
+            Coming Soon
+        </span>
+        
+        <p class="catalogue-type">
+            Development, Arcitecture, MSA
+        </p>
+        <div class="catalogue-info transition">
+            <h1 class="catalogue-title">
+                마이크로서비스 패턴 (Microservice Pattern) 리뷰
+            </h1>
+            <p class="catalogue-sub">
+                직접 경험했던 MSA와 책으로 접한 MSA는 어떻게 달랐을까
+            </p>
+            <p class="catalogue-body">
+                 마이크로서비스 패턴 (Microservice Pattern) 크리스 리처드슨 저/이일웅 역 | 길벗  에어프레미아에서 항공권 예약 시스템을 개발했을때, MSA에 대한 완벽한 이해는 하고 있지...
+            </p>
+        </div>
+    </a>
+</li>    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+:ET
