@@ -21,26 +21,12 @@ header-img: img/about.jpg
 `어떻게 성장해야할까` 라는 개발 이외의 고민 또한 가지고 있습니다.  
 저 또한 성장중이지만, 성장의 의미와 여러 사람들 마다 각기 다른 상황 속에서 어떤 길을 찾아가야 할지, 가장 좋은 방법이 무엇일지를 항상 고민합니다. 제 커리어와 이런 고민의 과정이 나중에는 다른 사람들을 많이 도울 수 있었으면 좋겠습니다.
 
-# Media
-### 수정중입니다...
+## Activities
 
-### Design Spectrum의 팟캐스트 Design Table
+### GitHub
+![GitHub Contribution](https://ghchart.rshah.org/daeheejeong)
 
-- Design Table Ep 19. `끊임없이 배우는 디자이너`
-- 들을 수 있는 곳: [iTunes](http://itun.es/kr/i6TOib.c) / [팟빵](http://www.podbbang.com/ch/13590) / [Podty](https://www.podty.me/cast/174282)
-
-<br />
-
-### 디자인 매거진 CA 2015년 3월호
-
-- [디자이너와 스타트업 종사자의 네트워킹 파티](http://cakorea.com/archives/2779)
-
-<br />
-
-### 월간 마이크로소프트웨어 2015년 2월호 표지 모델 및 기사
-
-- [마소 VOL. 376-2015.02](https://www.imaso.co.kr/archives/458)
-- [코딩하는 디자이너를 말하다](http://14.49.34.137/?p=3216)
-- [이지혜 DXD세미나 운영진 “코딩은 또 하나의 즐거움”](http://14.49.34.137/?p=3207)
+### History
+{% include career.html %}
 
 <br />
