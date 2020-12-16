@@ -1,5 +1,4 @@
 # careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: Air PREMIA
   link: http://www.airpremia.com/
   date: 2019.11 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
@@ -7,7 +6,7 @@
 
 - name: Kongju National Universitiy
   link: http://www.kongju.ac.kr/
-  date: 2018.02
+  date: "2018.02"
   job: Graduation
 
 - name: Ildong Pharmaceutical
