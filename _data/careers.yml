@@ -1,7 +1,12 @@
 # careers section data
+- name: NAVER Cloud
+  link: https://www.navercloudcorp.com/
+  date: 2020.12 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Back-End Engineer
+
 - name: Air PREMIA
   link: http://www.airpremia.com/
-  date: 2019.11 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: 2019.11 - 2020.11
   job: Back-End Engineer
 
 - name: Kongju National Universitiy
